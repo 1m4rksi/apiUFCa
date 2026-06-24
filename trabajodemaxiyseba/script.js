@@ -109,6 +109,9 @@ function mostrarHistorial() {
 // Volver al listado principal
 function volver() {
     document.getElementById("vista-perfil").style.display = "none";
-    document.getElementById("vista-lista").style.display = "block";
+
+    // Restaurar el display original
+    document.getElementById("vista-lista").style.display = "flex";
+
     peleadorSeleccionado = null;
 }

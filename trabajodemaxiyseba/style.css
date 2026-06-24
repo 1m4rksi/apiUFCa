@@ -307,46 +307,46 @@ button:hover {
 }
 
 .fight-left{
-    width:45%;
-    position:relative;
+    width: 40%;
+    position: relative;
 
-    display:flex;
-    align-items:flex-end;
-    justify-content:center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 
-    overflow:hidden;
+    overflow: visible; /* importante */
 }
 
 .fighter-img{
-    height:180px;
-    object-fit:contain;
-}
-
-.victoria-badge{
-    position:absolute;
-    left:15px;
-    bottom:15px;
-
-    background:#e10600;
-    color:white;
-
-    padding:10px 15px;
-
-    font-weight:bold;
-    font-size:20px;
-    z-index:10;
+    width: 260px;      /* en vez de usar height */
+    height: auto;
+    max-height: 260px;
+    object-fit: contain;
 }
 
 .fight-right{
-    width:55%;
-    padding:30px;
+    width: 35%;
+    padding: 20px;
 }
 
-.fight-right h2{
-    font-size:42px;
-    margin-bottom:10px;
-    border:none;
+
+.victoria-badge{
+    position: absolute;
+    left: 20px;
+    bottom: 0px;
+
+    background: #e10600;
+    color: white;
+
+    padding: 5px 10px;
+
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 100;
 }
+
+
+
 
 .fight-date{
     color:#9ca3af;

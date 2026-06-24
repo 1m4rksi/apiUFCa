@@ -4,11 +4,11 @@
     "nombre": "Ilia Topuria",
     "apodo": "El Matador",
     "division": "Peso Ligero",
-    "record": "17-0-0",
+    "record": "17-1-0",
     "foto": "caras/tupuria cara.png",
 
       "historial":[
-          
+          { "rival": "TOPURIA VS GAETHJE", "fecha": "Jun. 14, 2026", "asalto": 4, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/tupuria cara.png" },
           { "rival": "TOPURIA VS OLIVEIRA", "fecha":  "Jun. 28, 2025", "asalto": 1, "hora": "2:27", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2": "caras/oliveira cara.png" },
           { "rival": "TOPURIA VS HOLLOWAY", "fecha":  "Oct. 26, 2024", "asalto": 3, "hora": "1:34", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2": "caras/holloway cara.png"},
           { "rival": "VOLKANOVSKI VS TOPURIA", "fecha": "Feb. 18, 2024", "asalto": 2, "hora": "3:32", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2":"caras/volkanovski cara.png"},
@@ -51,7 +51,7 @@
     "record": "26-8-0",
     "foto": "caras/holloway cara.png",
     "historial": [
-      { "rival": "HOLLOWAY VS OLIVERA", "fecha": "Mar. 07, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/oliveira cara.png" },
+      { "rival": "HOLLOWAY VS OLIVERA", "fecha": "Mar. 07, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/oliveira cara.png", "img2": "caras/holloway cara.png" },
       { "rival": "HOLLOWAY VS POIRIER", "fecha": "Jul. 19, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/poirier cara.png" },
       { "rival": "TOPURIA VS HOLLOWAY", "fecha": "Oct. 26, 2024", "asalto": 3, "hora": "1:34", "metodo": "KO/TKO", "img1": "caras/tupuria cara.png", "img2": "caras/holloway cara.png" },
       { "rival": "HOLLOWAY VS GAETHJE", "fecha": "Apr. 13, 2024", "asalto": 5, "hora": "4:59", "metodo": "KO/TKO", "img1": "caras/holloway cara.png", "img2": "caras/justin cara.png" },
@@ -86,10 +86,10 @@
     "nombre": "Justin Gaethje",
     "apodo": "THE HIGHLIGHT",
     "division": "Peso Ligero",
-    "record": "25-5-0",
+    "record": "26-5-0",
     "foto": "caras/justin cara.png",
     "historial": [
-      { "rival": "TOPURIA VS GAETHJE", "fecha": "Jun. 14, 2026", "asalto": 4, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/tupuria cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "TOPURIA VS GAETHJE", "fecha": "Jun. 14, 2026", "asalto": 4, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/tupuria cara.png" },
       { "rival": "GAETHJE VS PIMBLETT", "fecha": "Jan. 24, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/paddy cara.png" },
       { "rival": "GAETHJE VS FIZIEV", "fecha": "Mar. 08, 2025", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/non cara.png" },
       { "rival": "HOLLOWAY VS GAETHJE", "fecha": "Apr. 13, 2024", "asalto": 5, "hora": "4:59", "metodo": "KO/TKO", "img1": "caras/holloway cara.png", "img2": "caras/justin cara.png" },
@@ -128,7 +128,7 @@
     "apodo": "DO BRONX",
     "division": "Peso Ligero",
     "record": "35-10-0",
-    "foto": "caras/olivera cara.png",
+    "foto": "caras/oliveira cara.png",
     "historial": [
       { "rival": "HOLLOWAY VS OLIVEIRA", "fecha": "Mar. 07, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/oliveira cara.png" },
       { "rival": "TOPURIA VS OLIVEIRA", "fecha": "Jun. 28, 2025", "asalto": 1, "hora": "2:27", "metodo": "KO/TKO", "img1": "caras/tupuria cara.png", "img2": "caras/oliveira cara.png" },
@@ -136,7 +136,7 @@
       { "rival": "TSARUKYAN VS OLIVEIRA", "fecha": "Apr. 13, 2024", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/oliveira cara.png" },
       { "rival": "OLIVERA VS DARIUSH", "fecha": "Jun. 10, 2023", "asalto": 1, "hora": "4:10", "metodo": "KO/TKO", "img1": "caras/oliveira cara.png", "img2": "caras/non cara.png" },
       { "rival": "MAKHACHEV VS OLIVEIRA", "fecha": "Oct. 22, 2022", "asalto": 2, "hora": "3:16", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/oliveira cara.png" },
-      { "rival": "OLIVEIRA VS GAETHJE", "fecha": "May. 07, 2022", "asalto": 1, "hora": "3:22", "metodo": "SUB", "img1": "caras/oliveria cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "OLIVEIRA VS GAETHJE", "fecha": "May. 07, 2022", "asalto": 1, "hora": "3:22", "metodo": "SUB", "img1": "caras/oliveira cara.png", "img2": "caras/justin cara.png" },
       { "rival": "OLIVEIRA VS POIRIER", "fecha": "Dec. 11, 2021", "asalto": 3, "hora": "1:02", "metodo": "SUB", "img1": "caras/oliveira cara.png", "img2": "caras/poirier cara.png" },
       { "rival": "OLIVEIRA VS CHANDLER", "fecha": "May. 15, 2021", "asalto": 2, "hora": "0:19", "metodo": "KO/TKO", "img1": "caras/oliveira cara.png", "img2": "caras/chandler cara.png" },
       { "rival": "OLIVEIRA VS FERGUSON", "fecha": "Dec. 12, 2020", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/oliveira cara.png", "img2": "caras/tony cara.png" }
@@ -145,7 +145,6 @@
   {
     "id": 6,
     "nombre": "Islam Makhachev",
-    "apodo": "N/A",
     "division": "Peso Welter",
     "record": "28-1-0",
     "foto": "caras/islam cara.png",
@@ -266,7 +265,6 @@
   {
     "id": 12,
     "nombre": "Diego Lopes",
-    "apodo": "N/A",
     "division": "Peso Pluma",
     "record": "28-8-0",
     "foto": "caras/lopes cara.png",
@@ -330,18 +328,18 @@
     "apodo": "SUGA",
     "division": "Peso Gallo",
     "record": "18-2-0",
-    "foto": "caras/omalley cara.png",
+    "foto": "caras/omaley cara.png",
     "historial": [
-      { "rival": "O'MALLEY VS YAN", "fecha": "Jun. 20, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "DVALISHVILI VS O'MALLEY", "fecha": "Sep. 14, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/omalley cara.png" },
-      { "rival": "O'MALLEY VS VERA", "fecha": "Mar. 09, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "O'MALLEY VS STERLING", "fecha": "Aug. 19, 2023", "asalto": 2, "hora": "0:51", "metodo": "KO/TKO", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "O'MALLEY VS YAN", "fecha": "Oct. 22, 2022", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "O'MALLEY VS MUNHOZ", "fecha": "Jul. 02, 2022", "asalto": 2, "hora": "3:09", "metodo": "NC", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "O'MALLEY VS PAIVA", "fecha": "Dec. 11, 2021", "asalto": 1, "hora": "4:42", "metodo": "KO/TKO", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "O'MALLEY VS MOUTINHO", "fecha": "Jul. 10, 2021", "asalto": 3, "hora": "4:33", "metodo": "KO/TKO", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "O'MALLEY VS ALMEIDA", "fecha": "Mar. 27, 2021", "asalto": 3, "hora": "3:52", "metodo": "KO/TKO", "img1": "caras/omalley cara.png", "img2": "caras/non cara.png" },
-      { "rival": "VERA VS O'MALLEY", "fecha": "Aug. 15, 2020", "asalto": 1, "hora": "4:40", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/omalley cara.png" }
+      { "rival": "O'MALLEY VS YAN", "fecha": "Jun. 20, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "DVALISHVILI VS O'MALLEY", "fecha": "Sep. 14, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/omaley cara.png" },
+      { "rival": "O'MALLEY VS VERA", "fecha": "Mar. 09, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS STERLING", "fecha": "Aug. 19, 2023", "asalto": 2, "hora": "0:51", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS YAN", "fecha": "Oct. 22, 2022", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS MUNHOZ", "fecha": "Jul. 02, 2022", "asalto": 2, "hora": "3:09", "metodo": "NC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS PAIVA", "fecha": "Dec. 11, 2021", "asalto": 1, "hora": "4:42", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS MOUTINHO", "fecha": "Jul. 10, 2021", "asalto": 3, "hora": "4:33", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS ALMEIDA", "fecha": "Mar. 27, 2021", "asalto": 3, "hora": "3:52", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VERA VS O'MALLEY", "fecha": "Aug. 15, 2020", "asalto": 1, "hora": "4:40", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/omaley cara.png" }
     ]
   },
   {
@@ -429,7 +427,6 @@
   {
     "id": 20,
     "nombre": "Tom Aspinall",
-    "apodo": "N/A",
     "division": "Peso Pesado",
     "record": "15-4-0",
     "foto": "caras/aspinall cara.png",
