@@ -1,0 +1,386 @@
+/* --- CONFIGURACIÓN GENERAL --- */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.banner-principal img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 850px; /* en vez de 100vh */
+    overflow: hidden;
+}
+
+.hero-img{
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay{
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,.45);
+}
+
+.hero-content{
+    position: relative;
+    z-index: 2;
+
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
+
+.hero-content h3{
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.hero-content h1{
+    font-size: 6rem;
+    font-weight: 700;
+    border: none;
+    margin: 0;
+}
+
+.hero-content p{
+    font-size: 2rem;
+    margin-top: 20px;
+}
+body{
+    margin:0;
+    padding:0;
+    background:#111;
+    color:white;
+    display:block; /* IMPORTANTE */
+}
+
+/* --- TIPOGRAFÍA ESTILO UFC --- */
+h1, h2, h3, h4, button {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase; /* Todo en mayúsculas como en la UFC */
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    border-bottom: 4px solid #d20a0a; /* Línea roja característica de la UFC */
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+}
+
+/* --- VISTA DE LISTA (Tarjetas) --- */
+#peleadores {
+    width: 100%;
+    max-width: 600px;
+}
+
+.peleador-card {
+    background-color: #1a1a1a;
+    border-left: 5px solid #d20a0a; /* Detalle rojo a la izquierda */
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+    transition: transform 0.2s;
+}
+
+.peleador-card:hover {
+    transform: scale(1.02);
+    background-color: #222222;
+}
+
+.peleador-card h3 {
+    
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+
+.contenedor-victoria {
+  background-color: #d20a0a; /* Rojo UFC */
+    color: white;
+   border: 1px solid #ef4444; /* Borde rojo de 2 píxeles */
+    padding: 4px 6px;         /* Espacio interno (arriba/abajo e izquierda/derecha) */
+    display: inline-block;     /* Hace que el cuadro envuelva solo la palabra */
+    line-height: 1;            /* Centra el texto verticalmente dentro del cuadro */
+     font-family: 'Oswald', sans-serif;
+    text-transform: uppercase; /* Todo en mayúsculas como en la UFC */
+    letter-spacing: 1px;
+ }
+/* --- BOTONES --- */
+button {
+    background-color: #d20a0a; /* Rojo UFC */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.2s;
+}
+
+button:hover {
+    background-color: #b00808; /* Rojo más oscuro al pasar el mouse */
+}
+
+/* --- VISTA DE PERFIL DETALLADO --- */
+#vista-perfil {
+    width: 100%;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background: #111;
+    
+    /* Forzamos a que todo sea una única columna centrada */
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+}
+
+/* Forzamos al H1 (Nombre) a centrarse y no estirarse infinitamente */
+#vista-perfil h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 auto 30px auto;
+    width: 100%;
+    max-width: 600px; /* Limita el ancho de la línea roja */
+    display: inline-block;
+}
+
+#nombre {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+#apodo {
+    color: #d20a0a; /* Apodo en rojo */
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+#foto {
+    border: 3px solid #333;
+    border-radius: 4px;
+    background-color: #111;
+    margin-bottom: 25px;
+    object-fit: cover;
+}
+
+#vista-perfil p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    color: #cccccc;
+}
+
+#vista-perfil p strong {
+    color: #ffffff;
+}
+
+/* --- HISTORIAL DE PELEAS --- */
+#historial h4 {
+    margin-top: 20px;
+    font-size: 1.3rem;
+    color: #ffffff;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+    text-align: left;
+}
+
+#historial ul {
+    list-style: none;
+    text-align: left;
+    margin-top: 15px;
+}
+
+#historial li {
+    background-color: #111111;
+    padding: 12px;
+    border-radius: 4px;
+    border-right: 3px solid #333;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+/* Botón volver abajo */
+#vista-perfil button:last-of-type {
+    background-color: #333333;
+    margin-top: 20px;
+}
+
+#vista-perfil button:last-of-type:hover {
+    background-color: #444444;
+}
+
+.eventos{
+    width:100vw;
+    background:#09101f;
+    border-top:1px solid #333;
+}
+
+.eventos-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+}
+
+.evento{
+    padding:40px;
+    min-height:500px;
+}
+
+.evento:first-child{
+    border-right:1px solid #333;
+}
+
+.evento-tag{
+    color:#9ca3af;
+    font-size:12px;
+    margin-bottom:40px;
+}
+
+.evento-imagenes{
+    height:280px;
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+}
+
+.evento-imagenes img{
+    height:260px;
+    object-fit:contain;
+}
+
+.evento-footer{
+    margin-top:40px;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+}
+
+.evento-footer h2{
+    font-size:55px;
+    line-height:0.9;
+    border:none;
+    margin:0;
+}
+
+.evento-footer img{
+    height:70px;
+    opacity:.35;
+}
+
+.fight-card{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    background:#101010;
+    border-top:1px solid #333;
+
+    margin-bottom:20px;
+    min-height:200px;
+}
+
+.fight-left{
+    width:45%;
+    position:relative;
+
+    display:flex;
+    align-items:flex-end;
+    justify-content:center;
+
+    overflow:hidden;
+}
+
+.fighter-img{
+    height:180px;
+    object-fit:contain;
+}
+
+.victoria-badge{
+    position:absolute;
+    left:15px;
+    bottom:15px;
+
+    background:#e10600;
+    color:white;
+
+    padding:10px 15px;
+
+    font-weight:bold;
+    font-size:20px;
+    z-index:10;
+}
+
+.fight-right{
+    width:55%;
+    padding:30px;
+}
+
+.fight-right h2{
+    font-size:42px;
+    margin-bottom:10px;
+    border:none;
+}
+
+.fight-date{
+    color:#9ca3af;
+    margin-bottom:25px;
+}
+
+.fight-stats{
+    display:flex;
+    gap:60px;
+
+    border-top:1px solid #333;
+    padding-top:20px;
+}
+
+.fight-stats span{
+    display:block;
+    color:#888;
+    margin-bottom:10px;
+}
+
+.fight-stats strong{
+    font-size:42px;
+    color:white;
+}
+
+#vista-lista{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+}
+
+#vista-lista h1{
+    width:100%;
+    text-align:center;
+    margin:20px auto;
+}
