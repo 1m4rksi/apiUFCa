@@ -1,0 +1,666 @@
+[
+  {
+    "id": 21,
+    "nombre": "Ilia Topuria",
+    "apodo": "El Matador",
+    "division": "Peso Ligero",
+    "record": "17-1-0",
+    "foto": "caras/tupuria.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 1",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+      "historial":[
+          { "rival": "TOPURIA VS GAETHJE", "fecha": "Jun. 14, 2026", "asalto": 4, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/tupuria cara.png" },
+          { "rival": "TOPURIA VS OLIVEIRA", "fecha":  "Jun. 28, 2025", "asalto": 1, "hora": "2:27", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2": "caras/oliveira cara.png" },
+          { "rival": "TOPURIA VS HOLLOWAY", "fecha":  "Oct. 26, 2024", "asalto": 3, "hora": "1:34", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2": "caras/holloway cara.png"},
+          { "rival": "VOLKANOVSKI VS TOPURIA", "fecha": "Feb. 18, 2024", "asalto": 2, "hora": "3:32", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2":"caras/volkanovski cara.png"},
+          { "rival": "TOPURIA VS EMMETT", "fecha": "Jun. 24, 2023", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1":"caras/tupuria cara.png", "img2":"caras/emmett cara.png" },
+          { "rival": "TOPURIA VS MITCHELL", "fecha": "Dec. 10, 2022", "asalto": 2, "hora": "3:01", "metodo": "SUB", "img1":"caras/tupuria cara.png", "img2":"caras/mitchell cara.png" },
+          { "rival": "TOPURIA VS Herbert", "fecha": "Jul. 10, 2021", "asalto": 2, "hora": "4:47", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2":"caras/herbert cara.png" },
+          { "rival": "Hall vs Topuria", "fecha": "Jul. 10, 2021", "asalto": 1, "hora": "4:47", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2":"caras/hall cara.png" },
+          { "rival": "Topuria vs Jackson", "fecha": "Dec. 6, 2020", "asalto": 1, "hora": "2:39", "metodo": "KO/TKO", "img1":"caras/tupuria cara.png", "img2":"caras/jackson cara.png" },
+          { "rival": "Zalal vs Topuria", "fecha": "Oct. 10, 2020", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1":"caras/tupuria cara.png", "img2":"caras/zalal cara.png" }
+        ]
+  },
+
+  {
+    "id": 22,
+    "nombre": "Conor McGregor",
+    "apodo": "The Notorious",
+    "division": "Peso Ligero",
+    "record": "22-6-0",
+    "foto": "caras/mcgregor.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+  "historial":[
+          { "rival": "MCGREGOR VS HOLLOWAY", "fecha": "May. 23, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/conor cara.png", "img2": "caras/holloway cara.png" },
+          { "rival": "MCGREGOR VS CHANDLER", "fecha": "Jan. 25, 2025", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/conor cara.png", "img2": "caras/chandler cara.png" },
+          { "rival": "POIRIER VS MCGREGOR", "fecha":  "Jul. 10, 2021", "asalto": 1, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/poirier cara.png", "img2": "caras/conor cara.png" },
+          { "rival": "POIRIER VS MCGREGOR", "fecha":  "Jan. 23, 2021", "asalto": 2, "hora": "2:32", "metodo": "KO/TKO", "img1": "caras/poirier cara.png", "img2": "caras/conor cara.png" },
+          { "rival": "MCGREGOR VS COWBOY", "fecha":   "Jan. 18, 2020", "asalto": 1, "hora": "0:40", "metodo": "KO/TKO", "img1": "caras/conor cara.png", "img2": "caras/non cara.png" },
+          { "rival": "KHABIB VS MCGREGOR", "fecha":   "Oct. 06, 2018", "asalto": 4, "hora": "3:03", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/conor cara.png" },
+          { "rival": "MCGREGOR VS ALVAREZ", "fecha":  "Nov. 12, 2016", "asalto": 2, "hora": "3:04", "metodo": "KO/TKO", "img1": "caras/conor cara.png", "img2": "caras/non cara.png" },
+          { "rival": "MCGREGOR VS DIAZ", "fecha":    "Aug. 20, 2016", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/conor cara.png", "img2": "caras/nate cara.png" },
+          { "rival": "DIAZ VS MCGREGOR", "fecha":    "Mar. 05, 2016", "asalto": 2, "hora": "4:12", "metodo": "SUB", "img1": "caras/nate cara.png", "img2": "caras/conor cara.png" },
+          { "rival": "MCGREGOR VS ALDO", "fecha":    "Dec. 12, 2015", "asalto": 1, "hora": "0:13", "metodo": "KO/TKO", "img1": "caras/conor cara.png", "img2": "caras/aldo cara.png" }
+        ]
+  },
+
+  
+  {
+    "id": 1,
+    "nombre": "Max Holloway",
+    "apodo": "BLESSED",
+    "division": "Peso Pluma",
+    "record": "26-8-0",
+    "foto": "caras/holloway.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "HOLLOWAY VS OLIVERA", "fecha": "Mar. 07, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/oliveira cara.png", "img2": "caras/holloway cara.png" },
+      { "rival": "HOLLOWAY VS POIRIER", "fecha": "Jul. 19, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "TOPURIA VS HOLLOWAY", "fecha": "Oct. 26, 2024", "asalto": 3, "hora": "1:34", "metodo": "KO/TKO", "img1": "caras/tupuria cara.png", "img2": "caras/holloway cara.png" },
+      { "rival": "HOLLOWAY VS GAETHJE", "fecha": "Apr. 13, 2024", "asalto": 5, "hora": "4:59", "metodo": "KO/TKO", "img1": "caras/holloway cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "HOLLOWAY VS JUNG", "fecha": "Aug. 26, 2023", "asalto": 3, "hora": "0:23", "metodo": "KO/TKO", "img1": "caras/holloway cara.png", "img2": "caras/non cara.png" },
+      { "rival": "HOLLOWAY VS ALLEN", "fecha": "Apr. 15, 2023", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VOLKANOVSKI VS HOLLOWAY", "fecha": "Jul. 02, 2022", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/holloway cara.png" },
+      { "rival": "HOLLOWAY VS RODRIGUEZ", "fecha": "Nov. 13, 2021", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/non cara.png" },
+      { "rival": "HOLLOWAY VS KATTAR", "fecha": "Jan. 16, 2021", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VOLKANOVSKI VS HOLLOWAY", "fecha": "Jul. 11, 2020", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/holloway cara.png" }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Paddy Pimblett",
+    "apodo": "THE BADDY",
+    "division": "Peso Ligero",
+    "record": "22-4-0",
+    "foto": "caras/paddy.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "GAETHJE VS PIMBLETT", "fecha": "Jan. 24, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/paddy cara.png" },
+      { "rival": "PIMBLETT VS CHANDLER", "fecha": "Apr. 12, 2025", "asalto": 3, "hora": "3:07", "metodo": "KO/TKO", "img1": "caras/paddy cara.png", "img2": "caras/chandler cara.png" },
+      { "rival": "PIMBLETT VS GREEN", "fecha": "Jul. 27, 2024", "asalto": 1, "hora": "3:22", "metodo": "SUB", "img1": "caras/paddy cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PIMBLETT VS FERGUSON", "fecha": "Dec. 16, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/paddy cara.png", "img2": "caras/tony cara.png" },
+      { "rival": "PIMBLETT VS GORDON", "fecha": "Dec. 10, 2022", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/paddy cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PIMBLETT VS LEAVITT", "fecha": "Jul. 23, 2022", "asalto": 2, "hora": "2:46", "metodo": "SUB", "img1": "caras/paddy cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PIMBLETT VS VARGAS", "fecha": "Mar. 19, 2022", "asalto": 1, "hora": "3:50", "metodo": "SUB", "img1": "caras/paddy cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PIMBLETT VS VENDRAMINI", "fecha": "Sep. 04, 2021", "asalto": 1, "hora": "4:25", "metodo": "KO/TKO", "img1": "caras/paddy cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Justin Gaethje",
+    "apodo": "THE HIGHLIGHT",
+    "division": "Peso Ligero",
+    "record": "26-5-0",
+    "foto": "caras/gaethje.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "TOPURIA VS GAETHJE", "fecha": "Jun. 14, 2026", "asalto": 4, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/tupuria cara.png" },
+      { "rival": "GAETHJE VS PIMBLETT", "fecha": "Jan. 24, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/paddy cara.png" },
+      { "rival": "GAETHJE VS FIZIEV", "fecha": "Mar. 08, 2025", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/non cara.png" },
+      { "rival": "HOLLOWAY VS GAETHJE", "fecha": "Apr. 13, 2024", "asalto": 5, "hora": "4:59", "metodo": "KO/TKO", "img1": "caras/holloway cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "GAETHJE VS POIRIER", "fecha": "Jul. 29, 2023", "asalto": 2, "hora": "1:00", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "GAETHJE VS FIZIEV", "fecha": "Mar. 18, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/non cara.png" },
+      { "rival": "OLIVEIRA VS GAETHJE", "fecha": "May. 07, 2022", "asalto": 1, "hora": "3:22", "metodo": "SUB", "img1": "caras/oliveira cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "GAETHJE VS CHANDLER", "fecha": "Nov. 06, 2021", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/justin cara.png", "img2": "caras/chandler cara.png" },
+      { "rival": "KHABIB VS GAETHJE", "fecha": "Oct. 24, 2020", "asalto": 2, "hora": "1:34", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "GAETHJE VS FERGUSON", "fecha": "May. 09, 2020", "asalto": 5, "hora": "3:39", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/tony cara.png" }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Alexander Volkanovski",
+    "apodo": "THE GREAT",
+    "division": "Peso Pluma",
+    "record": "26-4-0",
+    "foto": "caras/volkanovski.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "TOPURIA VS VOLKANOVSKI", "fecha": "Feb. 18, 2024", "asalto": 2, "hora": "3:32", "metodo": "KO/TKO", "img1": "caras/tupuria cara.png", "img2": "caras/volkanovski cara.png" },
+      { "rival": "MAKHACHEV VS VOLKANOVSKI", "fecha": "Oct. 21, 2023", "asalto": 1, "hora": "3:06", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/volkanovski cara.png" },
+      { "rival": "VOLKANOVSKI VS RODRIGUEZ", "fecha": "Jul. 08, 2023", "asalto": 3, "hora": "4:19", "metodo": "KO/TKO", "img1": "caras/volkanovski cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS VOLKANOVSKI", "fecha": "Feb. 12, 2023", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/volkanovski cara.png" },
+      { "rival": "VOLKANOVSKI VS HOLLOWAY", "fecha": "Jul. 02, 2022", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/holloway cara.png" },
+      { "rival": "VOLKANOVSKI VS JUNG", "fecha": "Apr. 09, 2022", "asalto": 4, "hora": "0:45", "metodo": "KO/TKO", "img1": "caras/volkanovski cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VOLKANOVSKI VS ORTEGA", "fecha": "Sep. 25, 2021", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VOLKANOVSKI VS HOLLOWAY", "fecha": "Jul. 11, 2020", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/holloway cara.png" },
+      { "rival": "VOLKANOVSKI VS HOLLOWAY", "fecha": "Dec. 14, 2019", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/holloway cara.png" },
+      { "rival": "VOLKANOVSKI VS ALDO", "fecha": "May. 11, 2019", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/aldo cara.png" }
+    ]
+  },
+
+  {
+    "id": 5,
+    "nombre": "Charles Oliveira",
+    "apodo": "DO BRONX",
+    "division": "Peso Ligero",
+    "record": "35-10-0",
+    "foto": "caras/oliveira.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "HOLLOWAY VS OLIVEIRA", "fecha": "Mar. 07, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/oliveira cara.png" },
+      { "rival": "TOPURIA VS OLIVEIRA", "fecha": "Jun. 28, 2025", "asalto": 1, "hora": "2:27", "metodo": "KO/TKO", "img1": "caras/tupuria cara.png", "img2": "caras/oliveira cara.png" },
+      { "rival": "OLIVERA VS CHANDLER", "fecha": "Nov. 16, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/oliveira cara.png", "img2": "caras/chandler cara.png" },
+      { "rival": "TSARUKYAN VS OLIVEIRA", "fecha": "Apr. 13, 2024", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/oliveira cara.png" },
+      { "rival": "OLIVERA VS DARIUSH", "fecha": "Jun. 10, 2023", "asalto": 1, "hora": "4:10", "metodo": "KO/TKO", "img1": "caras/oliveira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS OLIVEIRA", "fecha": "Oct. 22, 2022", "asalto": 2, "hora": "3:16", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/oliveira cara.png" },
+      { "rival": "OLIVEIRA VS GAETHJE", "fecha": "May. 07, 2022", "asalto": 1, "hora": "3:22", "metodo": "SUB", "img1": "caras/oliveira cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "OLIVEIRA VS POIRIER", "fecha": "Dec. 11, 2021", "asalto": 3, "hora": "1:02", "metodo": "SUB", "img1": "caras/oliveira cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "OLIVEIRA VS CHANDLER", "fecha": "May. 15, 2021", "asalto": 2, "hora": "0:19", "metodo": "KO/TKO", "img1": "caras/oliveira cara.png", "img2": "caras/chandler cara.png" },
+      { "rival": "OLIVEIRA VS FERGUSON", "fecha": "Dec. 12, 2020", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/oliveira cara.png", "img2": "caras/tony cara.png" }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Islam Makhachev",
+    "division": "Peso Welter",
+    "record": "28-1-0",
+    "foto": "caras/islam.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "MAKHACHEV VS DELLA MADDALENA", "fecha": "Nov. 15, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/islam cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS MOICANO", "fecha": "Jan. 18, 2025", "asalto": 1, "hora": "4:05", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS POIRIER", "fecha": "Jun. 01, 2024", "asalto": 5, "hora": "2:42", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "MAKHACHEV VS VOLKANOVSKI", "fecha": "Oct. 21, 2023", "asalto": 1, "hora": "3:06", "metodo": "KO/TKO", "img1": "caras/islam cara.png", "img2": "caras/volkanovski cara.png" },
+      { "rival": "MAKHACHEV VS VOLKANOVSKI", "fecha": "Feb. 11, 2023", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/islam cara.png", "img2": "caras/volkanovski cara.png" },
+      { "rival": "MAKHACHEV VS OLIVEIRA", "fecha": "Oct. 22, 2022", "asalto": 2, "hora": "3:16", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/oliveira cara.png" },
+      { "rival": "MAKHACHEV VS GREEN", "fecha": "Feb. 26, 2022", "asalto": 1, "hora": "3:23", "metodo": "KO/TKO", "img1": "caras/islam cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS HOOKER", "fecha": "Oct. 30, 2021", "asalto": 1, "hora": "2:25", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS MOISES", "fecha": "Jul. 17, 2021", "asalto": 4, "hora": "2:38", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MAKHACHEV VS DOBER", "fecha": "Mar. 06, 2021", "asalto": 3, "hora": "1:37", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Khamzat Chimaev",
+    "apodo": "BORZ",
+    "division": "Peso Mediano",
+    "record": "15-1-0",
+    "foto": "caras/chimaev.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "CHIMAEV VS STRICKLAND", "fecha": "May. 09, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/chimaev cara.png", "img2": "caras/strickland cara.png" },
+      { "rival": "DU PLESSIS VS CHIMAEV", "fecha": "Aug. 16, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/chimaev cara.png" },
+      { "rival": "CHIMAEV VS WHITTAKER", "fecha": "Oct. 26, 2024", "asalto": 1, "hora": "3:34", "metodo": "SUB", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS USMAN", "fecha": "Oct. 21, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS HOLLAND", "fecha": "Sep. 10, 2022", "asalto": 1, "hora": "2:13", "metodo": "SUB", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS BURNS", "fecha": "Apr. 09, 2022", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS JINGLIANG", "fecha": "Oct. 30, 2021", "asalto": 1, "hora": "3:16", "metodo": "SUB", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS MEERSCHAERT", "fecha": "Sep. 19, 2020", "asalto": 1, "hora": "0:17", "metodo": "KO/TKO", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS MCKEE", "fecha": "Jul. 25, 2020", "asalto": 1, "hora": "3:09", "metodo": "KO/TKO", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CHIMAEV VS PHILLIPS", "fecha": "Jul. 15, 2020", "asalto": 2, "hora": "1:12", "metodo": "SUB", "img1": "caras/chimaev cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Nate Diaz",
+    "apodo": "THE STOCKTON SLUGGER",
+    "division": "Peso Welter",
+    "record": "21-13-0",
+    "foto": "caras/diaz.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "DIAZ VS FERGUSON", "fecha": "Sep. 10, 2022", "asalto": 4, "hora": "2:52", "metodo": "SUB", "img1": "caras/nate cara.png", "img2": "caras/tony cara.png" },
+      { "rival": "EDWARDS VS DIAZ", "fecha": "Jun. 12, 2021", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/nate cara.png" },
+      { "rival": "MASVIDAL VS DIAZ", "fecha": "Nov. 02, 2019", "asalto": 3, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/nate cara.png" },
+      { "rival": "DIAZ VS PETTIS", "fecha": "Aug. 17, 2019", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/nate cara.png", "img2": "caras/non cara.png" },
+      { "rival": "MCGREGOR VS DIAZ", "fecha": "Aug. 20, 2016", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/conor cara.png", "img2": "caras/nate cara.png" },
+      { "rival": "DIAZ VS MCGREGOR", "fecha": "Mar. 05, 2016", "asalto": 2, "hora": "4:12", "metodo": "SUB", "img1": "caras/nate cara.png", "img2": "caras/conor cara.png" },
+      { "rival": "DIAZ VS JOHNSON", "fecha": "Dec. 19, 2015", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/nate cara.png", "img2": "caras/non cara.png" },
+      { "rival": "DOS ANJOS VS DIAZ", "fecha": "Dec. 13, 2014", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/nate cara.png" },
+      { "rival": "DIAZ VS MAYNARD", "fecha": "Nov. 30, 2013", "asalto": 1, "hora": "2:38", "metodo": "KO/TKO", "img1": "caras/nate cara.png", "img2": "caras/non cara.png" },
+      { "rival": "THOMSON VS DIAZ", "fecha": "Apr. 20, 2013", "asalto": 2, "hora": "3:44", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/nate cara.png" }
+    ]
+  },
+
+  {
+    "id": 9,
+    "nombre": "Alex Pereira",
+    "apodo": "POATAN",
+    "division": "Peso Semipesado",
+    "record": "13-4-0",
+    "foto": "caras/alex.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "GANE VS PEREIRA", "fecha": "Jun. 14, 2026", "asalto": 2, "hora": "1:27", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/pereira cara.png" },
+      { "rival": "PEREIRA VS ANKALAEV", "fecha": "Mar. 14, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/pereira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ANKALAEV VS PEREIRA", "fecha": "Oct. 04, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/pereira cara.png" },
+      { "rival": "PEREIRA VS ROUNTREE", "fecha": "Oct. 05, 2024", "asalto": 4, "hora": "4:32", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PEREIRA VS PROCHAZKA", "fecha": "Jun. 29, 2024", "asalto": 2, "hora": "0:13", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PEREIRA VS HILL", "fecha": "Apr. 13, 2024", "asalto": 1, "hora": "3:14", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PEREIRA VS PROCHAZKA", "fecha": "Nov. 11, 2023", "asalto": 2, "hora": "4:08", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "PEREIRA VS BLACHOWICZ", "fecha": "Jul. 29, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/pereira cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ADESANYA VS PEREIRA", "fecha": "Apr. 08, 2023", "asalto": 2, "hora": "4:21", "metodo": "KO/TKO", "img1": "caras/israel cara.png", "img2": "caras/pereira cara.png" },
+      { "rival": "PEREIRA VS ADESANYA", "fecha": "Nov. 12, 2022", "asalto": 5, "hora": "2:01", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/israel cara.png" }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Kevin Vallejos",
+    "apodo": "EL CHINO",
+    "division": "Peso Pluma",
+    "record": "18-1-0",
+    "foto": "caras/vallejos.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "VALLEJOS VS EMMETT", "fecha": "Mar. 14, 2026", "asalto": 1, "hora": "1:25", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/emmet cara.png" },
+      { "rival": "VALLEJOS VS CHIKADZE", "fecha": "Dec. 13, 2025", "asalto": 2, "hora": "1:29", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VALLEJOS VS SILVA", "fecha": "Aug. 02, 2025", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VALLEJOS VS CHOI", "fecha": "Mar. 15, 2025", "asalto": 1, "hora": "3:09", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VALLEJOS VS TEAGUE", "fecha": "Sep. 24, 2024", "asalto": 1, "hora": "2:23", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VALLEJOS VS PEREZ", "fecha": "Dec. 21, 2023", "asalto": 2, "hora": "4:23", "metodo": "SUB", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "SILVA VS VALLEJOS", "fecha": "Sep. 06, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/vallejos cara.png" },
+      { "rival": "VALLEJOS VS GARAGORRI", "fecha": "Mar. 11, 2023", "asalto": 2, "hora": "3:15", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VALLEJOS VS MACHADO", "fecha": "Dec. 15, 2022", "asalto": 1, "hora": "2:23", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VALLEJOS VS CENA", "fecha": "Sep. 15, 2021", "asalto": 1, "hora": "1:45", "metodo": "KO/TKO", "img1": "caras/vallejos cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Israel Adesanya",
+    "apodo": "THE LAST STYLEBENDER",
+    "division": "Peso Mediano",
+    "record": "24-6-0",
+    "foto": "caras/israel.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "PYFER VS ADESANYA", "fecha": "Mar. 28, 2026", "asalto": 2, "hora": "4:18", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/israel cara.png" },
+      { "rival": "IMAVOV VS ADESANYA", "fecha": "Feb. 01, 2025", "asalto": 2, "hora": "0:30", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/israel cara.png" },
+      { "rival": "DU PLESSIS VS ADESANYA", "fecha": "Aug. 17, 2024", "asalto": 4, "hora": "3:38", "metodo": "SUB", "img1": "caras/non cara.png", "img2": "caras/israel cara.png" },
+      { "rival": "ADESANYA VS PEREIRA", "fecha": "Apr. 08, 2023", "asalto": 2, "hora": "4:21", "metodo": "KO/TKO", "img1": "caras/israel cara.png", "img2": "caras/pereira cara.png" },
+      { "rival": "PEREIRA VS ADESANYA", "fecha": "Nov. 12, 2022", "asalto": 5, "hora": "2:01", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/israel cara.png" },
+      { "rival": "ADESANYA VS CANNONIER", "fecha": "Jul. 02, 2022", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/israel cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ADESANYA VS WHITTAKER", "fecha": "Feb. 12, 2022", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/israel cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ADESANYA VS VETTORI", "fecha": "Jun. 12, 2021", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/israel cara.png", "img2": "caras/non cara.png" },
+      { "rival": "BLACHOWICZ VS ADESANYA", "fecha": "Mar. 06, 2021", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/israel cara.png" },
+      { "rival": "ADESANYA VS COSTA", "fecha": "Sep. 26, 2020", "asalto": 2, "hora": "3:59", "metodo": "KO/TKO", "img1": "caras/israel cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Diego Lopes",
+    "division": "Peso Pluma",
+    "record": "28-8-0",
+    "foto": "caras/lopes.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "LOPES VS GARCIA", "fecha": "Jun. 14, 2026", "asalto": 2, "hora": "2:42", "metodo": "KO/TKO", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VOLKANOVSKI VS LOPES", "fecha": "Jan. 31, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/lopes cara.png" },
+      { "rival": "LOPES VS SILVA", "fecha": "Sep. 13, 2025", "asalto": 2, "hora": "4:48", "metodo": "KO/TKO", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VOLKANOVSKI VS LOPES", "fecha": "Apr. 12, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/volkanovski cara.png", "img2": "caras/lopes cara.png" },
+      { "rival": "LOPES VS ORTEGA", "fecha": "Sep. 14, 2024", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "LOPES VS IGE", "fecha": "Jun. 29, 2024", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "LOPES VS YUSUFF", "fecha": "Apr. 13, 2024", "asalto": 1, "hora": "1:29", "metodo": "KO/TKO", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "LOPES VS SABATINI", "fecha": "Nov. 11, 2023", "asalto": 1, "hora": "1:30", "metodo": "KO/TKO", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "LOPES VS TUCKER", "fecha": "Aug. 05, 2023", "asalto": 1, "hora": "1:38", "metodo": "SUB", "img1": "caras/lopes cara.png", "img2": "caras/non cara.png" },
+      { "rival": "EVLOEV VS LOPES", "fecha": "May. 06, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/lopes cara.png" }
+    ]
+  },
+
+  {
+    "id": 13,
+    "nombre": "Dustin Poirier",
+    "apodo": "THE DIAMOND",
+    "division": "Peso Ligero",
+    "record": "31-9-0",
+    "foto": "caras/poirirer.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "HOLLOWAY VS POIRIER", "fecha": "Jul. 19, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/holloway cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "MAKHACHEV VS POIRIER", "fecha": "Jun. 01, 2024", "asalto": 5, "hora": "2:42", "metodo": "SUB", "img1": "caras/islam cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "POIRIER VS SAINT DENIS", "fecha": "Mar. 09, 2024", "asalto": 2, "hora": "2:32", "metodo": "KO/TKO", "img1": "caras/poirier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "GAETHJE VS POIRIER", "fecha": "Jul. 29, 2023", "asalto": 2, "hora": "1:00", "metodo": "KO/TKO", "img1": "caras/justin cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "POIRIER VS CHANDLER", "fecha": "Nov. 12, 2022", "asalto": 3, "hora": "2:00", "metodo": "SUB", "img1": "caras/poirier cara.png", "img2": "caras/chandler cara.png" },
+      { "rival": "OLIVERA VS POIRIER", "fecha": "Dec. 11, 2021", "asalto": 3, "hora": "1:02", "metodo": "SUB", "img1": "caras/olivera cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "POIRIER VS MCGREGOR", "fecha": "Jul. 10, 2021", "asalto": 1, "hora": "5:00", "metodo": "KO/TKO", "img1": "caras/poirier cara.png", "img2": "caras/conor cara.png" },
+      { "rival": "POIRIER VS MCGREGOR", "fecha": "Jan. 23, 2021", "asalto": 2, "hora": "2:32", "metodo": "KO/TKO", "img1": "caras/poirier cara.png", "img2": "caras/conor cara.png" },
+      { "rival": "POIRIER VS HOOKER", "fecha": "Jun. 27, 2020", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/poirier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS POIRIER", "fecha": "Sep. 07, 2019", "asalto": 3, "hora": "2:06", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/poirier cara.png" }
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Arman Tsarukyan",
+    "apodo": "AHALTSKHA",
+    "division": "Peso Ligero",
+    "record": "23-3-0",
+    "foto": "caras/arman.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "MAKHACHEV VS TSARUKYAN", "fecha": "Jan. 18, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/islam cara.png", "img2": "caras/arman cara.png" },
+      { "rival": "TSARUKYAN VS OLIVERA", "fecha": "Apr. 13, 2024", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/olivera cara.png" },
+      { "rival": "TSARUKYAN VS DARIUSH", "fecha": "Dec. 02, 2023", "asalto": 1, "hora": "1:04", "metodo": "KO/TKO", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" },
+      { "rival": "TSARUKYAN VS SILVA", "fecha": "Jun. 17, 2023", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" },
+      { "rival": "TSARUKYAN VS ISMAGULOV", "fecha": "Dec. 17, 2022", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" },
+      { "rival": "GAMROT VS TSARUKYAN", "fecha": "Jun. 25, 2022", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/arman cara.png" },
+      { "rival": "TSARUKYAN VS ALVAREZ", "fecha": "Feb. 26, 2022", "asalto": 2, "hora": "1:57", "metodo": "KO/TKO", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" },
+      { "rival": "TSARUKYAN VS GIAGOS", "fecha": "Sep. 18, 2021", "asalto": 1, "hora": "2:09", "metodo": "KO/TKO", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" },
+      { "rival": "TSARUKYAN VS FREVOLA", "fecha": "Jan. 24, 2021", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" },
+      { "rival": "TSARUKYAN VS RAMOS", "fecha": "Jul. 19, 2020", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/arman cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Sean O'Malley",
+    "apodo": "SUGA",
+    "division": "Peso Gallo",
+    "record": "18-2-0",
+    "foto": "caras/omaley.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "O'MALLEY VS YAN", "fecha": "Jun. 20, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "DVALISHVILI VS O'MALLEY", "fecha": "Sep. 14, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/omaley cara.png" },
+      { "rival": "O'MALLEY VS VERA", "fecha": "Mar. 09, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS STERLING", "fecha": "Aug. 19, 2023", "asalto": 2, "hora": "0:51", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS YAN", "fecha": "Oct. 22, 2022", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS MUNHOZ", "fecha": "Jul. 02, 2022", "asalto": 2, "hora": "3:09", "metodo": "NC", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS PAIVA", "fecha": "Dec. 11, 2021", "asalto": 1, "hora": "4:42", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS MOUTINHO", "fecha": "Jul. 10, 2021", "asalto": 3, "hora": "4:33", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "O'MALLEY VS ALMEIDA", "fecha": "Mar. 27, 2021", "asalto": 3, "hora": "3:52", "metodo": "KO/TKO", "img1": "caras/omaley cara.png", "img2": "caras/non cara.png" },
+      { "rival": "VERA VS O'MALLEY", "fecha": "Aug. 15, 2020", "asalto": 1, "hora": "4:40", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/omaley cara.png" }
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Sean Strickland",
+    "apodo": "TARZAN",
+    "division": "Peso Mediano",
+    "record": "31-7-0",
+    "foto": "caras/strickland.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "CHIMAEV VS STRICKLAND", "fecha": "May. 09, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/chimaev cara.png", "img2": "caras/strickland cara.png" },
+      { "rival": "STRICKLAND VS HERNANDEZ", "fecha": "Feb. 21, 2026", "asalto": 3, "hora": "2:23", "metodo": "KO/TKO", "img1": "caras/strickland cara.png", "img2": "caras/non cara.png" },
+      { "rival": "DU PLESSIS VS STRICKLAND", "fecha": "Feb. 08, 2025", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/strickland cara.png" },
+      { "rival": "STRICKLAND VS COSTA", "fecha": "Jun. 01, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/strickland cara.png", "img2": "caras/non cara.png" },
+      { "rival": "DU PLESSIS VS STRICKLAND", "fecha": "Jan. 20, 2024", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/strickland cara.png" },
+      { "rival": "STRICKLAND VS ADESANYA", "fecha": "Sep. 09, 2023", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/strickland cara.png", "img2": "caras/israel cara.png" },
+      { "rival": "STRICKLAND VS MAGOMEDOV", "fecha": "Jul. 01, 2023", "asalto": 2, "hora": "4:20", "metodo": "KO/TKO", "img1": "caras/strickland cara.png", "img2": "caras/non cara.png" },
+      { "rival": "STRICKLAND VS IMAVOV", "fecha": "Jan. 14, 2023", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/strickland cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CANNONIER VS STRICKLAND", "fecha": "Dec. 17, 2022", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/strickland cara.png" },
+      { "rival": "PEREIRA VS STRICKLAND", "fecha": "Jul. 02, 2022", "asalto": 1, "hora": "2:36", "metodo": "KO/TKO", "img1": "caras/pereira cara.png", "img2": "caras/strickland cara.png" }
+    ]
+  } ,
+
+
+  {
+    "id": 17,
+    "nombre": "Daniel Cormier",
+    "apodo": "DC",
+    "division": "Peso Pesado",
+    "record": "22-3-0 (1 NC)",
+    "foto": "caras/cormier.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "MIOCIC VS CORMIER", "fecha": "Aug. 15, 2020", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/non cara.png", "img2": "caras/cormier cara.png" },
+      { "rival": "MIOCIC VS CORMIER", "fecha": "Aug. 17, 2019", "asalto": 4, "hora": "4:09", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/cormier cara.png" },
+      { "rival": "CORMIER VS LEWIS", "fecha": "Nov. 03, 2018", "asalto": 2, "hora": "2:14", "metodo": "SUB", "img1": "caras/cormier cara.png", "img2": "caras/nate cara.png" },
+      { "rival": "CORMIER VS MIOCIC", "fecha": "Jul. 07, 2018", "asalto": 1, "hora": "4:33", "metodo": "KO/TKO", "img1": "caras/cormier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CORMIER VS OEZDEMIR", "fecha": "Jan. 20, 2018", "asalto": 2, "hora": "2:00", "metodo": "KO/TKO", "img1": "caras/cormier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS CORMIER", "fecha": "Jul. 29, 2017", "asalto": 3, "hora": "3:01", "metodo": "NC", "img1": "caras/jon cara.png", "img2": "caras/cormier cara.png" },
+      { "rival": "CORMIER VS JOHNSON", "fecha": "Apr. 08, 2017", "asalto": 2, "hora": "3:37", "metodo": "SUB", "img1": "caras/cormier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CORMIER VS SILVA", "fecha": "Jul. 09, 2016", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/cormier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CORMIER VS GUSTAFSSON", "fecha": "Oct. 03, 2015", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/cormier cara.png", "img2": "caras/non cara.png" },
+      { "rival": "CORMIER VS JOHNSON", "fecha": "May. 23, 2015", "asalto": 3, "hora": "2:39", "metodo": "SUB", "img1": "caras/cormier cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Khabib Nurmagomedov",
+    "apodo": "THE EAGLE",
+    "division": "Peso Ligero",
+    "record": "29-0-0",
+    "foto": "caras/khabib.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "KHABIB VS GAETHJE", "fecha": "Oct. 24, 2020", "asalto": 2, "hora": "1:34", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/justin cara.png" },
+      { "rival": "KHABIB VS POIRIER", "fecha": "Sep. 07, 2019", "asalto": 3, "hora": "2:06", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/poirier cara.png" },
+      { "rival": "KHABIB VS MCGREGOR", "fecha": "Oct. 06, 2018", "asalto": 4, "hora": "3:03", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/conor cara.png" },
+      { "rival": "KHABIB VS IAQUINTA", "fecha": "Apr. 07, 2018", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS BARBOZA", "fecha": "Dec. 30, 2017", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS JOHNSON", "fecha": "Nov. 12, 2016", "asalto": 3, "hora": "2:31", "metodo": "SUB", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS HORCHER", "fecha": "Apr. 16, 2016", "asalto": 2, "hora": "3:38", "metodo": "KO/TKO", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS DOS ANJOS", "fecha": "Apr. 19, 2014", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS HEALY", "fecha": "Sep. 21, 2013", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" },
+      { "rival": "KHABIB VS TRUJILLO", "fecha": "May. 25, 2013", "asalto": 3, "hora": "5:00", "metodo": "DEC", "img1": "caras/khabib cara.png", "img2": "caras/non cara.png" }
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Jon Jones",
+    "apodo": "BONES",
+    "division": "Peso Pesado",
+    "record": "28-1-0 (1 NC)",
+    "foto": "caras/jon.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "JONES VS ASPINALL", "fecha": "Jan. 24, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/aspinall cara.png" },
+      { "rival": "JONES VS MIOCIC", "fecha": "Nov. 16, 2024", "asalto": 3, "hora": "4:29", "metodo": "KO/TKO", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS GANE", "fecha": "Mar. 04, 2023", "asalto": 1, "hora": "2:04", "metodo": "SUB", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS REYES", "fecha": "Feb. 08, 2020", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS SANTOS", "fecha": "Jul. 06, 2019", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS SMITH", "fecha": "Mar. 02, 2019", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS GUSTAFSSON", "fecha": "Dec. 29, 2018", "asalto": 3, "hora": "2:02", "metodo": "KO/TKO", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS CORMIER", "fecha": "Jul. 29, 2017", "asalto": 3, "hora": "3:01", "metodo": "NC", "img1": "caras/jon cara.png", "img2": "caras/cormier cara.png" },
+      { "rival": "JONES VS SAINT PREUX", "fecha": "Apr. 23, 2016", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/non cara.png" },
+      { "rival": "JONES VS CORMIER", "fecha": "Jan. 03, 2015", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/cormier cara.png" }
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Tom Aspinall",
+    "division": "Peso Pesado",
+    "record": "15-4-0",
+    "foto": "caras/tom.png",
+    "ultima_pelea": {
+      "rival": "Max Holloway",
+      "resultado": "VICTORIA",
+      "fecha": "OCT 26, 2024"
+    },
+    "proxima_pelea": {
+      "rival": "Alexander Volkanovski 2",
+      "resultado": "PRÓXIMA",
+      "fecha": "MID 2026"
+    },
+    "historial": [
+      { "rival": "JONES VS ASPINALL", "fecha": "Jan. 24, 2026", "asalto": 5, "hora": "5:00", "metodo": "DEC", "img1": "caras/jon cara.png", "img2": "caras/aspinall cara.png" },
+      { "rival": "ASPINALL VS BLAYDES", "fecha": "Jul. 27, 2024", "asalto": 1, "hora": "1:00", "metodo": "KO/TKO", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ASPINALL VS PAVLOVICH", "fecha": "Nov. 11, 2023", "asalto": 1, "hora": "1:09", "metodo": "KO/TKO", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ASPINALL VS TYBURA", "fecha": "Jul. 22, 2023", "asalto": 1, "hora": "1:13", "metodo": "KO/TKO", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "BLAYDES VS ASPINALL", "fecha": "Jul. 23, 2022", "asalto": 1, "hora": "0:15", "metodo": "KO/TKO", "img1": "caras/non cara.png", "img2": "caras/aspinall cara.png" },
+      { "rival": "ASPINALL VS VOLKOV", "fecha": "Mar. 19, 2022", "asalto": 1, "hora": "3:45", "metodo": "SUB", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ASPINALL VS SPIVAK", "fecha": "Sep. 04, 2021", "asalto": 1, "hora": "2:30", "metodo": "KO/TKO", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ASPINALL VS ARLOVSKI", "fecha": "Feb. 20, 2021", "asalto": 2, "hora": "1:09", "metodo": "SUB", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ASPINALL VS BAUDOT", "fecha": "Oct. 10, 2020", "asalto": 1, "hora": "1:35", "metodo": "KO/TKO", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" },
+      { "rival": "ASPINALL VS COLLIER", "fecha": "Jul. 25, 2020", "asalto": 1, "hora": "0:45", "metodo": "KO/TKO", "img1": "caras/aspinall cara.png", "img2": "caras/non cara.png" }
+    ]
+  }
+
+  ]

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    <meta charset="UTF-8">
+    <title>UFC Fighters</title>
+    <!-- Fuentes oficiales estilo UFC -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <section class="hero">
+
+    <img src="inicio.avif" class="hero-img">
+    <div class="overlay"></div>
+
+    <div class="hero-content">
+        <h3>UFC FREEDOM 250</h3>
+        <h1>TOPURIA VS. GAETHJE</h1>
+        <p>LA UNIFICACIÓN DEL CINTURÓN DE PESO LIGERO</p>
+    </div>
+</section>
+
+
+
+</section>
+<section class="eventos">
+
+  <div class="eventos-grid">
+
+    <div class="evento">
+      <p class="evento-tag">ACABA DE SUCEDER</p>
+
+      <div class="evento-imagenes">
+        <img src="tupuria.png">
+        <img src="gaethje.png">
+      </div>
+
+      <div class="evento-footer">
+        <h2>UFC<br>FREEDOM 250</h2>
+        <img src="free.png">
+      </div>
+    </div>
+
+    <div class="evento">
+      <p class="evento-tag">UP NEXT</p>
+
+      <div class="evento-imagenes">
+        <img src="ininion2.png">
+        <img src="chinardo.png">
+      </div>
+
+      <div class="evento-footer">
+        <h2>KAPE VS<br>HORIGUCHI</h2>
+        <img src="noche.png">
+      </div>
+    </div>
+
+  </div>
+
+</section>
+ 
+<section class="bg-[#11131c] text-white border-t border-gray-700">
+
+
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-6 px-6">
+
+
+    
+    </div> </section>
+  </div>
+</section>
+
+</main>
+  </div>
+
+    <!-- ================= PANTALLA DE INICIO (LISTADO) ================= -->
+    <div id="vista-lista">
+        <h1>Peleadores UFC</h1>
+        <button onclick="renderizarPeleadores()">Cargar Peleadores</button>
+        <div id="peleadores"></div>
+    </div>
+
+
+   <!-- ================= PANTALLA DE PERFIL DETALLADO ================= -->
+<div id="vista-perfil" style="display:none;">
+    
+    <!-- Barra de Navegación Superior -->
+    <div class="navbar-ufc">
+        <button onclick="volver()" class="btn-volver-flecha" aria-label="Volver">&#10094;</button>
+        <div class="navbar-logo">UFC</div>
+    </div>
+
+    <!-- Contenedor Principal del Perfil (Grid de 3 Columnas) -->
+    <div class="perfil-layout">
+        
+        <!-- COLUMNA IZQUIERDA: Datos del Peleador -->
+        <div class="perfil-col datos-izquierda">
+            <div class="badges-row">
+                <span class="badge">LIGERO DIVISION</span>
+                <span class="badge">#2 PFP</span>
+                <span class="badge-active">ACTIVO</span>
+                <span class="badge-active">TITLE HOLDER</span>
+            </div>
+            
+            <h3 id="apodo" class="txt-apodo"></h3>
+            <h1 id="nombre" class="txt-nombre"></h1>
+            
+            <p id="division" class="txt-division"></p>
+            <p id="record" class="txt-record"></p>
+
+            <!-- Panel de Estadísticas -->
+            <div class="stats-row">
+                <div class="stat-item"><strong>7</strong><span>VICTORIAS POR NOCAUT</span></div>
+                <div class="stat-item"><strong>8</strong><span>GANA POR SUMISIÓN</span></div>
+                <div class="stat-item"><strong>10</strong><span>PRIMEROS ACABADOS REDONDOS</span></div>
+            </div>
+        </div>
+        <!-- COLUMNA CENTRAL: Imagen del Peleador con su podio detrás -->
+<div class="perfil-col foto-centro">
+    <!-- El nuevo bloque gris que servirá de base fija -->
+    <div class="podio-fondo"></div>
+    
+    <!-- Tu imagen del peleador -->
+    <img id="foto" alt="Foto del Peleador">
+</div>
+
+       <!-- COLUMNA DERECHA: Combates Historial -->
+<div class="perfil-col historial-derecha">
+    
+    <!-- Último Combate -->
+    <div class="card-combate">
+        <span class="tag-combate last">LAST FIGHT</span>
+        <div class="combate-header">
+            <!-- 🎯 ID AGREGADOS AQUÍ ABAJO -->
+            <span class="combate-titulo" id="last-fight-rival">TOPURIA VS OLIVEIRA</span>
+            <span class="combate-status win" id="last-fight-status">VICTORIA</span>
+        </div>
+        <span class="combate-fecha" id="last-fight-date">JUN. 28, 2025</span>
+    </div>
+
+    <!-- Próximo Combate -->
+    <div class="card-combate">
+        <span class="tag-combate upcoming">UPCOMING FIGHT</span>
+        <div class="combate-header">
+            <!-- 🎯 ID AGREGADOS AQUÍ ABAJO -->
+            <span class="combate-titulo" id="next-fight-rival">TOPURIA VS GAETHJE</span>
+            <span class="combate-status next" id="next-fight-status">PRÓXIMA</span>
+        </div>
+        <span class="combate-fecha" id="next-fight-date">JUN. 14, 2026</span>
+    </div>
+
+            <!-- Botón para ver historial -->
+<button id="btn-historial" onclick="mostrarHistorial()" class="btn-view-history">
+    VIEW FIGHT HISTORY
+</button>
+        </div>
+
+    </div> <!-- Fin de .perfil-layout -->
+
+    <!-- NUEVA POSICION: Aquí abajo se abrirán las peleas anteriores ocupando todo el ancho -->
+    <div id="historial" class="box-historial-desplegado"></div>
+
+</div> <!-- Fin de #vista-perfil -->
+
+    <script src="script.js"></script>
+</body>
+</html>
